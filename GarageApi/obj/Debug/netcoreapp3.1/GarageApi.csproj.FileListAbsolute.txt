@@ -1,0 +1,21 @@
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\bin\Debug\netcoreapp3.1\GarageApi.exe
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\bin\Debug\netcoreapp3.1\GarageApi.deps.json
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\bin\Debug\netcoreapp3.1\GarageApi.runtimeconfig.json
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\bin\Debug\netcoreapp3.1\GarageApi.runtimeconfig.dev.json
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\bin\Debug\netcoreapp3.1\GarageApi.dll
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\bin\Debug\netcoreapp3.1\GarageApi.pdb
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\obj\Debug\netcoreapp3.1\GarageApi.csprojAssemblyReference.cache
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\obj\Debug\netcoreapp3.1\GarageApi.AssemblyInfoInputs.cache
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\obj\Debug\netcoreapp3.1\GarageApi.AssemblyInfo.cs
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\obj\Debug\netcoreapp3.1\GarageApi.csproj.CoreCompileInputs.cache
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\obj\Debug\netcoreapp3.1\GarageApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\obj\Debug\netcoreapp3.1\GarageApi.RazorTargetAssemblyInfo.cache
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\obj\Debug\netcoreapp3.1\staticwebassets\GarageApi.StaticWebAssets.Manifest.cache
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\obj\Debug\netcoreapp3.1\staticwebassets\GarageApi.StaticWebAssets.xml
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\obj\Debug\netcoreapp3.1\GarageApi.dll
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\obj\Debug\netcoreapp3.1\GarageApi.pdb
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\obj\Debug\netcoreapp3.1\GarageApi.genruntimeconfig.cache
+C:\Users\jeffm\Source\Repos\GarageApi\GarageApi\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\JAMGarageApi - Web Deploy\profile.arm.json
