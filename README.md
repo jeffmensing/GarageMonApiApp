@@ -1,5 +1,7 @@
 # GarageMonApiApp
 
+https://jamgarageapi.azurewebsites.net/api/garages
+
 example Garage Object
 { Id = 10, GarageName = "200 San Antonio Garage", MaxParkingSpots = 500, NumParkingSpotsOccupied = 476},
 
@@ -16,11 +18,13 @@ Increase Parking Spots Occupied Count
 GET: api/Garages/IncrementCarCount/22
 
 
+
 Decrease Parking Spots Occupied Count
+
+[HttpGet("[action]/{id}")
 
 api/Garages/DecrementCarCount/22
 
-[HttpGet("[action]/{id}")
 
 
 POST: api/Garages
@@ -28,18 +32,22 @@ POST: api/Garages
 [HttpPost]
 
 
+
 Update a Specific Garage
+
+[HttpPut("{id}")]
 
 api/Garages/22
 
-[HttpPut("{id}")]
 
 
 Delete a Specific Garage
 
+[HttpDelete("{id}")
+
 DELETE: api/Garages/22
 
-[HttpDelete("{id}")
+
 
 
 
